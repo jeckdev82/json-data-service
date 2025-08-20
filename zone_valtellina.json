@@ -22,29 +22,6 @@
             "position": 1,
             "medal": "gold",
             "athlete": {
-              "name": "Andrea (ITA)",
-              "country": "Unknown",
-              "country_code": "UNK",
-              "flag": "🏳️"
-            },
-            "score": ""
-          }
-        ]
-      }
-    },
-    {
-      "date": "2025-08-21",
-      "sport": "Alpine Skiing",
-      "event": "Women's Downhill",
-      "time": "10:30",
-      "venue": "Stelvio Ski Centre",
-      "status": "completed",
-      "results": {
-        "medal_winners": [
-          {
-            "position": 1,
-            "medal": "gold",
-            "athlete": {
               "name": "andrea (ITA)",
               "country": "Unknown",
               "country_code": "UNK",
@@ -56,5 +33,5 @@
       }
     }
   ],
-  "totalGoldMedals": 2
+  "totalGoldMedals": 1
 }
