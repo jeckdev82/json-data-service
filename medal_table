@@ -3,10 +3,10 @@
     "country": "ITA",
     "country_code": "UNK",
     "flag": "🏳️",
-    "gold": 7,
+    "gold": 8,
     "silver": 3,
     "bronze": 0,
-    "total": 10
+    "total": 11
   },
   {
     "country": "Canada",
@@ -49,9 +49,9 @@
     "country_code": "UNK",
     "flag": "🏳️",
     "gold": 0,
-    "silver": 1,
+    "silver": 2,
     "bronze": 0,
-    "total": 1
+    "total": 2
   },
   {
     "country": "Belgium",
