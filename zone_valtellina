@@ -29,17 +29,17 @@
       "event": "Women's Downhill",
       "time": "11:00-12:30",
       "venue": "Stelvio Ski Centre",
-      "status": "scheduled",
+      "status": "completed",
       "results": {
         "medal_winners": [
           {
             "position": 1,
             "medal": "gold",
             "athlete": {
-              "name": "",
-              "country": "",
-              "country_code": "",
-              "flag": ""
+              "name": "Luigia (ITA)",
+              "country": "Unknown",
+              "country_code": "UNK",
+              "flag": "🏳️"
             },
             "score": ""
           },
@@ -47,93 +47,10 @@
             "position": 2,
             "medal": "silver",
             "athlete": {
-              "name": "",
-              "country": "",
-              "country_code": "",
-              "flag": ""
-            },
-            "score": ""
-          },
-          {
-            "position": 3,
-            "medal": "bronze",
-            "athlete": {
-              "name": "",
-              "country": "",
-              "country_code": "",
-              "flag": ""
-            },
-            "score": ""
-          }
-        ],
-        "full_results": [
-          {
-            "position": 4,
-            "athlete": {
-              "name": "",
-              "country": "",
-              "country_code": "",
-              "flag": ""
-            },
-            "score": ""
-          },
-          {
-            "position": 5,
-            "athlete": {
-              "name": "",
-              "country": "",
-              "country_code": "",
-              "flag": ""
-            },
-            "score": ""
-          },
-          {
-            "position": 6,
-            "athlete": {
-              "name": "",
-              "country": "",
-              "country_code": "",
-              "flag": ""
-            },
-            "score": ""
-          },
-          {
-            "position": 7,
-            "athlete": {
-              "name": "",
-              "country": "",
-              "country_code": "",
-              "flag": ""
-            },
-            "score": ""
-          },
-          {
-            "position": 8,
-            "athlete": {
-              "name": "",
-              "country": "",
-              "country_code": "",
-              "flag": ""
-            },
-            "score": ""
-          },
-          {
-            "position": 9,
-            "athlete": {
-              "name": "",
-              "country": "",
-              "country_code": "",
-              "flag": ""
-            },
-            "score": ""
-          },
-          {
-            "position": 10,
-            "athlete": {
-              "name": "",
-              "country": "",
-              "country_code": "",
-              "flag": ""
+              "name": "Nike (USA)",
+              "country": "Unknown",
+              "country_code": "UNK",
+              "flag": "🏳️"
             },
             "score": ""
           }
