@@ -3,11 +3,17 @@
   "venues": [
     {
       "name": "Predazzo Ski Jumping Stadium",
-      "sports": ["Ski Jumping", "Nordic Combined"]
+      "sports": [
+        "Ski Jumping",
+        "Nordic Combined"
+      ]
     },
     {
       "name": "Tesero Cross-Country Skiing Stadium",
-      "sports": ["Cross-Country Skiing", "Nordic Combined"]
+      "sports": [
+        "Cross-Country Skiing",
+        "Nordic Combined"
+      ]
     }
   ],
   "total_gold_medals": 21,
