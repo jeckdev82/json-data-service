@@ -1,0 +1,2473 @@
+{
+  "name": "Val di Fiemme",
+  "venues": [
+    {
+      "name": "Predazzo Ski Jumping Stadium",
+      "sports": ["Ski Jumping", "Nordic Combined"]
+    },
+    {
+      "name": "Tesero Cross-Country Skiing Stadium",
+      "sports": ["Cross-Country Skiing", "Nordic Combined"]
+    }
+  ],
+  "total_gold_medals": 21,
+  "events": [
+    {
+      "date": "2026-02-06",
+      "sport": "Ski Jumping",
+      "event": "Women's Normal Hill Individual",
+      "time": "18:45-21:05",
+      "venue": "Predazzo Ski Jumping Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-07",
+      "sport": "Ski Jumping",
+      "event": "Men's Normal Hill Individual",
+      "time": "19:00-21:20",
+      "venue": "Predazzo Ski Jumping Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-08",
+      "sport": "Ski Jumping",
+      "event": "Mixed Team",
+      "time": "18:45-21:20",
+      "venue": "Predazzo Ski Jumping Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-09",
+      "sport": "Nordic Combined",
+      "event": "Individual Gundersen Large Hill",
+      "time": "10:00-10:45",
+      "venue": "Tesero Cross-Country Skiing Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-09",
+      "sport": "Nordic Combined",
+      "event": "Individual Gundersen Large Hill - Cross-Country",
+      "time": "15:30-16:30",
+      "venue": "Tesero Cross-Country Skiing Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-10",
+      "sport": "Cross-Country Skiing",
+      "event": "Women's Sprint Classic",
+      "time": "12:00-13:30",
+      "venue": "Tesero Cross-Country Skiing Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-10",
+      "sport": "Cross-Country Skiing",
+      "event": "Men's Sprint Classic",
+      "time": "14:00-15:30",
+      "venue": "Tesero Cross-Country Skiing Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-11",
+      "sport": "Nordic Combined",
+      "event": "Men's Team Large Hill",
+      "time": "10:00-10:45",
+      "venue": "Predazzo Ski Jumping Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-11",
+      "sport": "Nordic Combined",
+      "event": "Men's Team Large Hill - Cross-Country",
+      "time": "15:30-16:30",
+      "venue": "Tesero Cross-Country Skiing Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-12",
+      "sport": "Cross-Country Skiing",
+      "event": "Women's 10km Classic Individual",
+      "time": "11:00-12:30",
+      "venue": "Tesero Cross-Country Skiing Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-12",
+      "sport": "Cross-Country Skiing",
+      "event": "Men's 15km Classic Individual",
+      "time": "13:30-15:00",
+      "venue": "Tesero Cross-Country Skiing Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-13",
+      "sport": "Ski Jumping",
+      "event": "Women's Large Hill Individual",
+      "time": "18:45-21:05",
+      "venue": "Predazzo Ski Jumping Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-14",
+      "sport": "Cross-Country Skiing",
+      "event": "Women's 4x5km Relay",
+      "time": "12:00-13:30",
+      "venue": "Tesero Cross-Country Skiing Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-14",
+      "sport": "Cross-Country Skiing",
+      "event": "Men's 4x10km Relay",
+      "time": "14:00-15:30",
+      "venue": "Tesero Cross-Country Skiing Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-15",
+      "sport": "Ski Jumping",
+      "event": "Men's Large Hill Individual",
+      "time": "19:00-21:20",
+      "venue": "Predazzo Ski Jumping Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-16",
+      "sport": "Cross-Country Skiing",
+      "event": "Women's Sprint Freestyle",
+      "time": "12:00-13:30",
+      "venue": "Tesero Cross-Country Skiing Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-16",
+      "sport": "Cross-Country Skiing",
+      "event": "Men's Sprint Freestyle",
+      "time": "14:00-15:30",
+      "venue": "Tesero Cross-Country Skiing Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-17",
+      "sport": "Ski Jumping",
+      "event": "Men's Team Large Hill",
+      "time": "18:45-21:20",
+      "venue": "Predazzo Ski Jumping Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-18",
+      "sport": "Cross-Country Skiing",
+      "event": "Women's 30km Mass Start Classic",
+      "time": "11:00-13:30",
+      "venue": "Tesero Cross-Country Skiing Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-19",
+      "sport": "Cross-Country Skiing",
+      "event": "Men's 50km Mass Start Classic",
+      "time": "11:00-14:00",
+      "venue": "Tesero Cross-Country Skiing Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-20",
+      "sport": "Cross-Country Skiing",
+      "event": "Mixed Team Sprint Freestyle",
+      "time": "13:00-14:30",
+      "venue": "Tesero Cross-Country Skiing Stadium",
+      "status": "scheduled",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ],
+        "full_results": [
+          {
+            "position": 4,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 5,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 6,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 7,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 8,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 9,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          },
+          {
+            "position": 10,
+            "athlete": {
+              "name": "",
+              "country": "",
+              "country_code": "",
+              "flag": ""
+            },
+            "score": ""
+          }
+        ]
+      }
+    }
+  ]
+}
