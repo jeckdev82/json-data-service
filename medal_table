@@ -3,10 +3,10 @@
     "country": "ITA",
     "country_code": "UNK",
     "flag": "🏳️",
-    "gold": 4,
-    "silver": 2,
+    "gold": 6,
+    "silver": 3,
     "bronze": 0,
-    "total": 6
+    "total": 9
   },
   {
     "country": "GER",
@@ -14,7 +14,7 @@
     "flag": "🏳️",
     "gold": 0,
     "silver": 0,
-    "bronze": 1,
-    "total": 1
+    "bronze": 2,
+    "total": 2
   }
 ]
