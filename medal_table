@@ -7,5 +7,14 @@
     "silver": 2,
     "bronze": 0,
     "total": 6
+  },
+  {
+    "country": "GER",
+    "country_code": "UNK",
+    "flag": "🏳️",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1
   }
 ]
