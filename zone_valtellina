@@ -21,7 +21,7 @@
       ]
     }
   ],
-  "total_gold_medals": 36,
+  "total_gold_medals": 37,
   "events": [
     {
       "date": "2026-02-08",
@@ -3253,6 +3253,40 @@
             "medal": "bronze",
             "athlete": {
               "name": "Muller (GER)",
+              "country": "Unknown",
+              "country_code": "UNK",
+              "flag": "🏳️"
+            },
+            "score": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-02-08",
+      "sport": "Alpine Skiing",
+      "event": "Women's Downhill",
+      "time": "11:00-12:30",
+      "venue": "Stelvio Ski Centre",
+      "status": "completed",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 1,
+            "medal": "gold",
+            "athlete": {
+              "name": "Luigia (ITA)",
+              "country": "Unknown",
+              "country_code": "UNK",
+              "flag": "🏳️"
+            },
+            "score": ""
+          },
+          {
+            "position": 2,
+            "medal": "silver",
+            "athlete": {
+              "name": "Nike (USA)",
               "country": "Unknown",
               "country_code": "UNK",
               "flag": "🏳️"
