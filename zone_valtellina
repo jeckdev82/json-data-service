@@ -65,6 +65,29 @@
           }
         ]
       }
+    },
+    {
+      "date": "2025-08-22",
+      "sport": "Alpine Skiing",
+      "event": "Women's Downhill",
+      "time": "10:30",
+      "venue": "Stelvio Ski Centre",
+      "status": "completed",
+      "results": {
+        "medal_winners": [
+          {
+            "position": 3,
+            "medal": "bronze",
+            "athlete": {
+              "name": "Muller (GER)",
+              "country": "Unknown",
+              "country_code": "UNK",
+              "flag": "🏳️"
+            },
+            "score": ""
+          }
+        ]
+      }
     }
   ],
   "total_gold_medals": 2
