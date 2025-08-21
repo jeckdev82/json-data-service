@@ -9,6 +9,15 @@
     "total": 2
   },
   {
+    "country": "United States",
+    "country_code": "USA",
+    "flag": "🇺🇸",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
     "country": "Albania",
     "country_code": "ALB",
     "flag": "🇦🇱",
@@ -300,15 +309,6 @@
     "country": "Ukraine",
     "country_code": "UKR",
     "flag": "🇺🇦",
-    "gold": 0,
-    "silver": 0,
-    "bronze": 0,
-    "total": 0
-  },
-  {
-    "country": "United States",
-    "country_code": "USA",
-    "flag": "🇺🇸",
     "gold": 0,
     "silver": 0,
     "bronze": 0,
