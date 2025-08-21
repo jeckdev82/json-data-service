@@ -36,18 +36,7 @@
             "position": 1,
             "medal": "gold",
             "athlete": {
-              "name": "Luigia (ITA)",
-              "country": "Unknown",
-              "country_code": "UNK",
-              "flag": "🏳️"
-            },
-            "score": ""
-          },
-          {
-            "position": 2,
-            "medal": "silver",
-            "athlete": {
-              "name": "Nike (USA)",
+              "name": "FRanz (BEL)",
               "country": "Unknown",
               "country_code": "UNK",
               "flag": "🏳️"
