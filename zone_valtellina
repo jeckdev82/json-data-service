@@ -33,10 +33,10 @@
       "results": {
         "medal_winners": [
           {
-            "position": 1,
-            "medal": "gold",
+            "position": 2,
+            "medal": "silver",
             "athlete": {
-              "name": "andrea (ITA)",
+              "name": "Nike (ITA)",
               "country": "Unknown",
               "country_code": "UNK",
               "flag": "🏳️"
