@@ -164,10 +164,10 @@
             "position": 2,
             "medal": "silver",
             "athlete": {
-              "name": "",
-              "country": "",
-              "country_code": "",
-              "flag": ""
+              "name": "Nike",
+              "country": "United States",
+              "country_code": "USA",
+              "flag": "🇺🇸"
             },
             "score": ""
           },
