@@ -1,5 +1,13 @@
 [
-
+  {
+    "country": "ITA",
+    "country_code": "UNK",
+    "flag": "🏳️",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0,
+    "total": 1
+  },
   {
     "country": "Albania",
     "country_code": "ALB",
