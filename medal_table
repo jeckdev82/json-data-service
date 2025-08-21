@@ -1,5 +1,13 @@
 [
- 
+  {
+    "country": "Italy",
+    "country_code": "ITA",
+    "flag": "🇮🇹",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0,
+    "total": 1
+  },
   {
     "country": "Albania",
     "country_code": "ALB",
@@ -148,15 +156,6 @@
     "country": "Iceland",
     "country_code": "ISL",
     "flag": "🇮🇸",
-    "gold": 0,
-    "silver": 0,
-    "bronze": 0,
-    "total": 0
-  },
-  {
-    "country": "Italy",
-    "country_code": "ITA",
-    "flag": "🇮🇹",
     "gold": 0,
     "silver": 0,
     "bronze": 0,
